@@ -10,5 +10,8 @@
     "@wordpress/scripts": "^21.0.2",
     "expect-puppeteer": "^6.1.0",
     "puppeteer-testing-library": "^0.6.0"
+  },
+  "scripts": {
+    "wp-env": "wp-env"
   }
 }
